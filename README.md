@@ -20,17 +20,18 @@ This project is an asynchronous web app that uses Web API and user data to dynam
 
 ## To Run this Project:
 
-1. Install Nodes and (cors , express, body-parser)
+1. Install Nodes and (cors , express, body-parser) packages
 
 2. Start your server by running the command `node server.js` in your terminal
 
 3. Enter a ZipCode of any city in the USA
 
-4. Write Your Feeling.
+4. Write Your Feelings.
 
 5. Press Generate button, to display main information provided from OpenWeatherMap Website.
 
-6. Information includes: 1- Temperature, 2- Name of City, 3- Describtion of Weather Condition, 4- Date of Today and 5- Your Feelings.
+6. Information includes: 
+1- Temperature,         2- Name of City,        3- Description of Weather Condition,        4- Date of Today    and         5- Your Feelings.
 
 ## Extras
 If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
